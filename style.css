@@ -490,6 +490,8 @@ body {
 }
 
 .social_name {
+	color: #fff;
+	text-decoration: none;
 	transition: .1s linear;
 	cursor: pointer;
 }
